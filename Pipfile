@@ -13,6 +13,7 @@ sklearn = "*"
 kora = "*"
 wandb = "*"
 flask = "*"
+opencv-python = "*"
 
 [dev-packages]
 

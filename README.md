@@ -1,4 +1,4 @@
-# PP8 reverse image search
+# AI-PP8 reverse image search
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/AI-PP8-reverse-image-search/blob/master/AI-PP8-reverse-image-search.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/AI-PP8-reverse-image-search/blob/master/LICENSE)

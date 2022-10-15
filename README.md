@@ -1,7 +1,7 @@
 # PP8 reverse image search
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP8-reverse-image-search/blob/master/PP8-reverse-image-search.ipynb)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP8-reverse-image-search/blob/master/LICENSE)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/AI-PP8-reverse-image-search/blob/master/AI-PP8-reverse-image-search.ipynb)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/AI-PP8-reverse-image-search/blob/master/LICENSE)
 
 Practical Project 8 (PP8) for Artificial Intelligence studies to solidify basics of **reverse image search** by practicing.
 
@@ -9,11 +9,11 @@ Practical Project 8 (PP8) for Artificial Intelligence studies to solidify basics
 
 ### Automatic launch
 
-1. To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP8-reverse-image-search/blob/master/PP8-reverse-image-search.ipynb) badge.
+1. To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/AI-PP8-reverse-image-search/blob/master/AI-PP8-reverse-image-search.ipynb) badge.
 2. (Or) To launch locally on Windows just **run automatic setup script** in `Git Bash`:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP8-reverse-image-search/master/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/PauliusU/AI-PP8-reverse-image-search/master/setup.sh)
 ```
 
 ### Manual launch
@@ -21,13 +21,13 @@ bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP8-reverse-image-sear
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/PauliusU/PP8-reverse-image-search.git
+git clone https://github.com/PauliusU/AI-PP8-reverse-image-search.git
 ```
 
 2. Navigate into project:
 
 ```bash
-cd PP8-reverse-image-search/
+cd AI-PP8-reverse-image-search/
 ```
 
 3. Ensure pipenv is installed:
@@ -45,7 +45,7 @@ pipenv install
 5. Run project:
 
 ```bash
-pipenv run jupyter notebook PP8-reverse-image-search.ipynb
+pipenv run jupyter notebook AI-PP8-reverse-image-search.ipynb
 ```
 
 ## Requirements

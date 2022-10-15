@@ -1,5 +1,5 @@
-git clone https://github.com/PauliusU/PP8-reverse-image-search.git
-cd PP8-reverse-image-search/
+git clone https://github.com/PauliusU/AI-PP8-reverse-image-search.git
+cd AI-PP8-reverse-image-search/
 pip install --upgrade pipenv --user
 pipenv install
-pipenv run jupyter notebook PP8-reverse-image-search.ipynb
+pipenv run jupyter notebook AI-PP8-reverse-image-search.ipynb

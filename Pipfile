@@ -19,6 +19,8 @@ tqdm = "*"
 wandb = "*"
 # tensorflow-macos = "*"
 tensorflow = "*"
+pyngrok = "*"
+flask-ngrok = "*"
 
 [dev-packages]
 

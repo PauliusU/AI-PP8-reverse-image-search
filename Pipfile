@@ -4,20 +4,21 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+flask = "*"
+gdown = "*"
 jupyter = "*"
 keras = "*"
+kora = "*"
 matplotlib = "*"
 numpy = "*"
-requests = "*"
-sklearn = "*"
-kora = "*"
-wandb = "*"
-flask = "*"
 opencv-python = "*"
+requests = "*"
 scikit-image = "*"
+sklearn = "*"
 tqdm = "*"
-tensorflow-macos = "*"
-gdown = "*"
+wandb = "*"
+# tensorflow-macos = "*"
+tensorflow = "*"
 
 [dev-packages]
 

@@ -10,6 +10,9 @@ matplotlib = "*"
 numpy = "*"
 requests = "*"
 sklearn = "*"
+kora = "*"
+wandb = "*"
+flask = "*"
 
 [dev-packages]
 

@@ -3,6 +3,7 @@
 
 .ipynb_checkpoints/
 logs/
+AI-PP8-reverse-image-search-*.ipynb
 
 datasets/
 *.jpeg
